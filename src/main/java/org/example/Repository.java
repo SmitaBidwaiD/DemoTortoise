@@ -1,4 +1,7 @@
 package org.example;
 
-public class Repository {
+
+public interface Repository {
+
+    public String Display();
 }
